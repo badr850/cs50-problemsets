@@ -1,0 +1,5 @@
+text=input("type anything you want ")
+text=text.replace(" ","...")
+print("your text in slower speed would look like :\n",text)
+
+#showing what a text would look like if it's played in low speed
